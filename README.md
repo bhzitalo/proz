@@ -14,4 +14,4 @@ Bem-vindo ao repositório de materiais de apoio para o curso de **Análise e Des
 
 Escola: [Proz Educação](https://prozeducacao.com.br/) </br>
 Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br> 
-Turma: 251AM
+Turma: 251AM :)
