@@ -1,2 +1,2 @@
 # 🎓 Trabalhos
-📁 Todos os trabalhos propostos durante o curso
+📁 - Todos os trabalhos propostos durante o curso
