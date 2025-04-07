@@ -1,9 +1,3 @@
-# O Trabalho
-Cada grupo terá que apresentar sua ideia de startup. As equipes devem explicar o nome, mostrar a logomarca e descrever o problema que ela resolve, assim como como ela funciona.
-- Produzam também uma logomarca para a empresa.
-- Obs.: As startups precisam envolver tecnologia.
-- Os outros grupos façam perguntas e forneça feedback construtivo.
-
 # PrInt - Pre-diagnóstico Médico
 PrInt: a plataforma que vai **revolucionar** o cuidado com a saúde por meio da _inteligência artificial_. <!-- adicionar link de alguma materia sobre ia para ser aberta em uma nova guia -->
 
