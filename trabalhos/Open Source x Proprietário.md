@@ -15,7 +15,7 @@ Elabore um comparativo entre sistemas operacionais de código aberto (Open Sourc
 
 # Software Open Source e Software Proprietário
 
-    Software Open Source é aquele cujo o código-fonte é disponibilizado publicamente para qualquer pessoa. Isso significa que qualquer desenvolvedor pode visualizar, modificar, melhorar e distribuir o código conforme desejar, desde que siga as licenças especificadas pelo criador. 
+  Software Open Source é aquele cujo o código-fonte é disponibilizado publicamente para qualquer pessoa. Isso significa que qualquer desenvolvedor pode visualizar, modificar, melhorar e distribuir o código conforme desejar, desde que siga as licenças especificadas pelo criador. 
 
 **Vantagens:**
 - **Transparência**: Como o código está disponível para qualquer um, as pessoas podem inspecionar e garantir que não há malwares ou práticas indesejadas. 
@@ -34,7 +34,7 @@ Elabore um comparativo entre sistemas operacionais de código aberto (Open Sourc
 - **Suporte limitado**: Como é um modelo colaborativo, o suporte técnico pode ser escasso, ou depender da comunidade.
 - **Compatibilidade**: Às vezes, pode haver problemas de compatibilidade com outros software ou hardware.
 ---
-    Software proprietário é aquele cujo código-fonte é fechado e controlado por uma empresa ou desenvolvedor. Somente a empresa ou o proprietário do software tem permissão para visualizar, modificar ou distribuir o código.
+Software proprietário é aquele cujo código-fonte é fechado e controlado por uma empresa ou desenvolvedor. Somente a empresa ou o proprietário do software tem permissão para visualizar, modificar ou distribuir o código.
 
 **Vantagens:**
 - **Suporte dedicado:** Normalmente, há suporte técnico oficial e treinado.
@@ -55,7 +55,7 @@ Elabore um comparativo entre sistemas operacionais de código aberto (Open Sourc
 A escolha entre software open source e proprietário depende muito das necessidades do usuário da empresa. Se a transparencia, personalização e custo são prioridades, o Open Source pode ser a melhor escolha. Por outro lado, se você busca uma solução que ofereça suporte técnico e uma experiência de usuário refinada, o software proprietário pode ser mais adequado.
 
 ## O Windows e Suas Principais Versões
-    O Windows é um sistema operacional desenvolvido pela Microsoft, responsável por gerenciar os recursos de hardware e software de um computador. Com uma interface gráfica intuitiva, ele permite que os usuários interajam com o computador por meio de janelas, ícones e menus. Lançado inicialmente em 1985, o Windows se tornou um dos sistemas operacionais mais utilizados no mundo, presente em computadores pessoais, notebooks e até em alguns dispositivos corporativos. Ao longo dos anos, passou por diversas versões, trazendo melhorias em segurança, desempenho e usabilidade.
+O Windows é um sistema operacional desenvolvido pela Microsoft, responsável por gerenciar os recursos de hardware e software de um computador. Com uma interface gráfica intuitiva, ele permite que os usuários interajam com o computador por meio de janelas, ícones e menus. Lançado inicialmente em 1985, o Windows se tornou um dos sistemas operacionais mais utilizados no mundo, presente em computadores pessoais, notebooks e até em alguns dispositivos corporativos. Ao longo dos anos, passou por diversas versões, trazendo melhorias em segurança, desempenho e usabilidade.
 ### Windows 1.0 (1985)
 ---
 Primeira versão com interface gráfica, baseada no MS-DOS. Tinha funções bem básicas como: Interface gráfica com janelas, gerenciador de arquivos (MS-DOS Executive), bloco de notas, calculadora, calendário, paintbrush, relógio e prompt do MS-DOS.
