@@ -1,10 +1,9 @@
-# TRABALHO
+# TRABALHO - Open Source x Proprietário
 Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
 Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
 Turma: 251AM </br>
-Aluno: [Ítalo](https://github.com/finizmd) :)
+Grupo: [Ítalo](https://github.com/finizmd), Cintia, Stefany, Kauan, Mateus.
 
-## Open Source x Proprietário </br>
 Elabore um comparativo entre sistemas operacionais de código aberto (Open Source) e sistemas operacionais proprietários. Para isso, siga os tópicos abaixo:
 - Defina o que são sistemas operacionais Open Source e sistemas operacionais proprietários, destacando as principais diferenças entre eles.
 
