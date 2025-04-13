@@ -1,9 +1,12 @@
-# TRABALHO - Open Source x Proprietário
+# TRABALHO
+Tema: Software Open Source e Proprietário </br>
 Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
 Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
 Turma: 251AM </br>
 Grupo: [Ítalo](https://github.com/finizmd), Cintia, Stefany, Kauan, Mateus.
+@kauan
 
+# Introdução
 Elabore um comparativo entre sistemas operacionais de código aberto (Open Source) e sistemas operacionais proprietários. Para isso, siga os tópicos abaixo:
 - Defina o que são sistemas operacionais Open Source e sistemas operacionais proprietários, destacando as principais diferenças entre eles.
 
@@ -13,7 +16,7 @@ Elabore um comparativo entre sistemas operacionais de código aberto (Open Sourc
 
 - Cite as principais características dos sistemas operacionais MacOS, iOS e das cinco principais distribuições Linux.
 
-# Software Open Source e Software Proprietário
+## Software Open Source
 
   Software Open Source é aquele cujo o código-fonte é disponibilizado publicamente para qualquer pessoa. Isso significa que qualquer desenvolvedor pode visualizar, modificar, melhorar e distribuir o código conforme desejar, desde que siga as licenças especificadas pelo criador. 
 
@@ -33,7 +36,8 @@ Elabore um comparativo entre sistemas operacionais de código aberto (Open Sourc
 **Desvantagens:**
 - **Suporte limitado**: Como é um modelo colaborativo, o suporte técnico pode ser escasso, ou depender da comunidade.
 - **Compatibilidade**: Às vezes, pode haver problemas de compatibilidade com outros software ou hardware.
----
+
+## Software Proprietário
 Software proprietário é aquele cujo código-fonte é fechado e controlado por uma empresa ou desenvolvedor. Somente a empresa ou o proprietário do software tem permissão para visualizar, modificar ou distribuir o código.
 
 **Vantagens:**
