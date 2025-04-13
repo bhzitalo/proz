@@ -3,8 +3,7 @@ Tema: Software Open Source e Proprietário </br>
 Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
 Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
 Turma: 251AM </br>
-Grupo: [Ítalo](https://github.com/finizmd), Cintia, Stefany, Kauan, Mateus.
-@kauan
+Grupo: [Ítalo](https://github.com/finizmd), Cintia, Stefany, [Kauan](https://github.com/3kauan), Mateus.
 
 # Introdução
 Elabore um comparativo entre sistemas operacionais de código aberto (Open Source) e sistemas operacionais proprietários. Para isso, siga os tópicos abaixo:
