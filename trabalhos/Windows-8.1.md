@@ -3,7 +3,7 @@ Tema: Windows 8.1 </br>
 Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
 Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
 Turma: 251AM </br>
-Grupo: [Ítalo](https://github.com/finizmd), Cintia, Stefany, Kauan, Mateus.
+Grupo: [Ítalo](https://github.com/finizmd), Cintia, [Stefany](https://github.com/tet80), [Kauan](https://github.com/3kauan), Mateus.
 
 Cada grupo ficará responsável por pesquisar uma versão do Windows, desenvolvido pela Microsoft. O nosso grupo irá abordar o Windows 8.1, destacando suas principais características.
 
@@ -122,4 +122,12 @@ Embora ainda tivesse críticas, o Windows 8.1 foi melhor recebido que o Windows 
 O __Windows 8.1__ foi uma atualização crucial para a Microsoft, servindo como uma resposta direta às __críticas ao Windows 8__. Embora o Windows 8 tenha sido uma tentativa ousada de transformar a experiência do usuário, especialmente em dispositivos com tela sensível ao toque, a adaptação foi difícil para muitos. O Windows 8.1, por sua vez, corrigiu muitos desses problemas, trazendo de volta o __botão Iniciar__ e facilitando a __navegação em dispositivos tradicionais__, além de oferecer __melhor desempenho e mais opções de personalização__.
 
 Embora não tenha sido perfeito, o Windows 8.1 preparou o terreno para o __Windows 10__, que viria com um conjunto de funcionalidades mais refinado e uma experiência de usuário mais coesa. Em resumo, o Windows 8.1 foi uma atualização essencial, funcionando como um “meio-termo” entre inovação e a necessidade de um sistema mais familiar e acessível.
+
+## Referências bibliográficas
+- [O que há de novo no Windows 8.1](https://answers.microsoft.com/pt-br/windows/forum/all/o-que-h%C3%A1-de-novo-no-windows-81/3e9dd419-a9e3-4709-98d3-206aed8dc103)
+- https://pt.wikipedia.org/wiki/Windows_8.1
+- [Microsoft confirma data de lançamento do Windows 8.1](https://www.techtudo.com.br/noticias/2013/08/microsoft-confirma-data-de-lancamento-do-windows-81.ghtml)
+[Microsoft lança Windows 8.1](https://www.infomoney.com.br/consumo/microsoft-lanca-windows-8-1/)
+- [Windows 8.1 está disponível a partir desta quinta-feira](https://exame.com/tecnologia/windows-8-1-esta-disponivel-a-partir-desta-quinta-feira-2/)
+- [Versão final do Windows 8.1 será lançada em outubro](https://exame.com/tecnologia/versao-final-do-windows-8-1-sera-lancada-em-outubro/)
 
