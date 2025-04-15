@@ -2,7 +2,7 @@
 **PrInt** — A plataforma que vai **revolucionar** o cuidado com a saúde por meio da _inteligência artificial_.
 
 <p align="center">
-  <img src="img\logomarca.jpg" alt="Nossa Logomarca" width="800" height="400"/>
+  <img src="img\logomarca.jpg" alt="Nossa Logomarca" width="800" height="450"/>
 </p>
 
 **Escola:** [Proz Educação](http://www.prozeducacao.com.br/) </br>
