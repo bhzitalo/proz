@@ -29,29 +29,29 @@ A busca por informações médicas na internet se tornou um hábito comum. Milh�
 Nossa startup resolve esse problema por meio de uma plataforma de pré-diagnóstico baseada em inteligência artificial. Ela analisa os sintomas, identifica possíveis doenças, gera um pré-diagnóstico, classifica o nível de risco e direciona os pacientes aos especialistas mais adequados — priorizando casos urgentes e aliviando a sobrecarga nos serviços de saúde. Com isso, otimizamos o atendimento médico e contribuímos para a redução das filas nas UBSs e hospitais.
 
 <p align="center">
-  <img src="img\site.jpg" alt="Página Inicial" width="800" height="500"/>
+  <img src="img\site.jpg" alt="Página Inicial" width="800" height="450"/>
 </p>
 
 ## Missão Visão e Valores
 <p align="center">
-  <img src="img\mvv.jpg" alt="Missão, Visão e Valores" width="800" height="500"/>
+  <img src="img\mvv.jpg" alt="Missão, Visão e Valores" width="800" height="450"/>
 </p>
 
 ## Análise SWOT
 <p align="center">
-  <img src="img\swot.jpg" alt="Análise SWOT" width="800" height="500"/>
+  <img src="img\swot.jpg" alt="Análise SWOT" width="800" height="450"/>
 </p>
 
 ## Business Model Canvas
 <p align="center">
-  <img src="img\bmc.png" alt="Business Model Canvas" width="800" height="500"/>
+  <img src="img\bmc.png" alt="Business Model Canvas" width="800" height="450"/>
 </p>
 
 ## Sustentabilidade
 Nossa startup apresenta um modelo de negócio sustentável que utiliza inteligência artificial para minimizar desperdícios, otimizar recursos e gerar um impacto positivo tanto na sociedade quanto no sistema de saúde. A proposta abrange os três pilares fundamentais: sustentabilidade econômica, ambiental e social, cada um contribuindo para um futuro mais equilibrado e eficiente.
 
 <p align="center">
-  <img src="img\sustentabilidade.jpg" alt="Sustentabilidade" width="800" height="500"/>
+  <img src="img\sustentabilidade.jpg" alt="Sustentabilidade" width="800" height="450"/>
 </p>
 
 <!-- adicionar persona -->
