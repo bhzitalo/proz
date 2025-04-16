@@ -2,12 +2,13 @@
 <p align="center">
   <img src="img\logomarca-png.png" alt="Nossa Logomarca" width="800" height="450"/>
 </p>
-<p style="text-align: center;">A plataforma que vai <b>REVOLUCIONAR</b> o cuidado com a saúde através da Tecnologia.</p>
+
+<p align="center"> A plataforma que vai <b>REVOLUCIONAR</b> o cuidado com a saúde através da Tecnologia. </p>
 
 **Escola:** [Proz Educação](http://www.prozeducacao.com.br/) </br>
 **Turma:** 251AM </br>
 **Professor:** [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html)</br>
-Grupo: [Italo](https://github.com/Finizmd), [Cintia](https://github.com/cintia2305), [Kauan](https://github.com/3kauan), [Stefany](https://github.com/tet80), [Mateus](https://github.com/Mateushpr)
+**Grupo:** [Italo](https://github.com/Finizmd), [Cintia](https://github.com/cintia2305), [Kauan](https://github.com/3kauan), [Stefany](https://github.com/tet80), [Mateus](https://github.com/Mateushpr)
 
 
 
