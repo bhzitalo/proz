@@ -1,5 +1,5 @@
 # PrInt - Pre-diagnóstico Médico
-**PrInt** — A plataforma que vai **revolucionar** o cuidado com a saúde por meio da _inteligência artificial_.
+**PrInt** — A plataforma que vai **revolucionar** o cuidado com a saúde através da Tecnologia.
 
 <p align="center">
   <img src="img\logomarca.jpg" alt="Nossa Logomarca" width="800" height="450"/>
