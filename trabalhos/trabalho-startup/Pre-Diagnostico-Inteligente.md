@@ -1,6 +1,6 @@
 # Apresentação
 <p align="center">
-  <img src="img\logomarca.jpg" style="border-radius: 15px;" alt="Nossa Logomarca" width="800" height="450"/>
+  <img src="img\logomarca.jpg" style="border-radius: 30px;" alt="Nossa Logomarca" width="800" height="450"/>
 </p>
 <p style="text-align: center;">A plataforma que vai <b>REVOLUCIONAR</b> o cuidado com a saúde através da Tecnologia.</p>
 
