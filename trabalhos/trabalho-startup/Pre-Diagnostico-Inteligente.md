@@ -27,18 +27,23 @@ A busca por informações médicas na internet se tornou um hábito comum. Milh�
 
 ### Conheça a Mariana (persona)
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
 
-  <img src="img/mari.jpg" alt="Foto de Mariana Souza" width="250" style="border-radius: 10px; margin-right: 20px;">
+  <img src="img/mari.jpg" alt="Foto de Mariana Souza" width="350" style="border-radius: 10px; margin-right: 20px;">
 
   <div>
     <strong>Nome:</strong> Mariana Souza<br>
     <strong>Idade:</strong> 22 anos<br>
     <strong>Profissão:</strong> Assistente administrativo<br>
     <strong>Localização:</strong> Belo Horizonte - MG
-  </div>
+  </div> 
 
-</div>
+</div> --> 
+
+<p align="center">
+  <img src="img\marizinha.png" alt="Missão, Visão e Valores" width="740" height="360"/>
+</p>
+
 </br>
 
 Nos últimos meses, Mariana tem sentido dores de cabeça frequentes com intensidades variáveis ao longo do dia. Além disso, percebe episódios de tontura, náuseas e dificuldade de concentração, o que tem afetado sua produtividade no trabalho. Inicialmente, acreditava que era apenas estresse, mas os sintomas persistem. Apesar da preocupação, Mariana evita ir ao médico, por falta de informação e medo de que seja algo grave ou apenas um problema passageiro.
