@@ -1,9 +1,8 @@
-# PrInt - Pre-diagnóstico Médico
-**PrInt** — A plataforma que vai **revolucionar** o cuidado com a saúde através da Tecnologia.
-
+# Apresentação
 <p align="center">
-  <img src="img\logomarca.jpg" alt="Nossa Logomarca" width="800" height="450"/>
+  <img src="img\logomarca.jpg" style="border-radius: 15px;" alt="Nossa Logomarca" width="800" height="450"/>
 </p>
+<p style="text-align: center;">A plataforma que vai <b>REVOLUCIONAR</b> o cuidado com a saúde através da Tecnologia.</p>
 
 **Escola:** [Proz Educação](http://www.prozeducacao.com.br/) </br>
 **Turma:** 251AM </br>
@@ -26,7 +25,7 @@ A busca por informações médicas na internet se tornou um hábito comum. Milh�
 - Muitos pacientes evitam consultas por medo de custos, falta de tempo ou dificuldade de acesso, mas também não têm uma fonte confiável para avaliar seus sintomas.
 
 <p align="center">
-  <img src="img\persona.png" alt="Missão, Visão e Valores" width="740" height="360"/>
+  <img src="img\persona.jpg" style="border-radius: 15px;" alt="Persona" width="740" height="360"/>
 </p>
 
 Nos últimos meses, Mariana tem sentido dores de cabeça frequentes com intensidades variáveis ao longo do dia. Além disso, percebe episódios de tontura, náuseas e dificuldade de concentração, o que tem afetado sua produtividade no trabalho. Inicialmente, acreditava que era apenas estresse, mas os sintomas persistem. Apesar da preocupação, Mariana evita ir ao médico, por falta de informação e medo de que seja algo grave ou apenas um problema passageiro.
