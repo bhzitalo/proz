@@ -41,7 +41,7 @@ A busca por informações médicas na internet se tornou um hábito comum. Milh�
 </div> --> 
 
 <p align="center">
-  <img src="img\marianinha.png" alt="Missão, Visão e Valores" width="740" height="360"/>
+  <img src="img\persona.png" alt="Missão, Visão e Valores" width="740" height="360"/>
 </p>
 
 </br>
