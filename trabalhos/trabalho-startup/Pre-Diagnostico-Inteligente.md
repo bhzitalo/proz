@@ -36,7 +36,7 @@ Ela adiou o quanto pôde. Foram cerca de dois meses tentando conviver com o desc
 Após uma série de exames, veio o diagnóstico: um tumor cerebral grave, localizado em uma área delicada. A notícia foi um baque. A falta de informação e o medo que a impedia de buscar ajuda se transformou em realidade. Mariana agora precisaria enfrentar não só a doença, mas também o arrependimento por ter esperado tanto tempo para procurar ajuda.
 
 ## A Solução
-A nossa startup resolve esse problema por meio de uma plataforma de pré-diagnóstico baseada em inteligência artificial. Ela analisa os sintomas, identifica possíveis doenças, gera um pré-diagnóstico, classifica o nível de risco e direciona os pacientes aos especialistas mais adequados — priorizando casos urgentes e aliviando a sobrecarga nos serviços de saúde. Com isso, otimizamos o atendimento médico e contribuímos para a redução das filas nas UBSs e hospitais.
+Para solucionar esse problema, desenvolvemos uma plataforma de pré-diagnóstico Médico baseada em inteligência artificial. Ela analisa os sintomas, identifica possíveis doenças, gera um pré-diagnóstico, classifica o nível de risco e direciona os pacientes aos especialistas mais adequados — priorizando casos urgentes e aliviando a sobrecarga nos serviços de saúde. Com isso, otimizamos o atendimento médico e contribuímos para a redução das filas nas UBSs e hospitais.
 
 <p align="center">
   <img src="img\site.jpg" alt="Página Inicial" width="800" height="450"/>
