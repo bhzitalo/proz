@@ -1,4 +1,4 @@
-# Trabalho
+# Sobre o Trabalho
 Cada grupo será responsável por apresentar sua ideia de startup de forma clara e criativa. A apresentação deve conter os seguintes elementos:
 
 - Nome da startup: Escolham um nome que reflita bem a proposta do negócio.
