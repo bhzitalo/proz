@@ -1,14 +1,16 @@
 # TRABALHO
-Tema: Windows 8.1 </br>
-Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
-Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
-Turma: 251AM </br>
-Grupo: [Ítalo](https://github.com/finizmd), Cintia, [Stefany](https://github.com/tet80), [Kauan](https://github.com/3kauan), Mateus.
+
+**Tema:** Sistemas Operacionais, Windows 8.1 </br>
 
 Cada grupo ficará responsável por pesquisar uma versão do Windows, desenvolvido pela Microsoft. O nosso grupo irá abordar o Windows 8.1, destacando suas principais características.
 
-## Introdução
-### Windows 8.1
+Turma: 251AM </br>
+Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
+Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
+Grupo: [Ítalo](https://github.com/finizmd), [Cintia](https://github.com/cintia2305), [Stefany](https://github.com/tet80), [Kauan](https://github.com/3kauan), [Mateus](https://github.com/Mateushpr). </br>
+
+
+# Windows 8.1
 O Windows 8.1 é uma atualização do sistema operacional Windows 8, desenvolvida pela Microsoft. Ele foi criado para melhorar a experiência do usuário, corrigindo falhas e trazendo de volta algumas funções que haviam sido retiradas, como o botão Iniciar. Essa versão trouxe ajustes importantes na interface, desempenho e personalização do sistema.
 
 ### Quando foi lançado?
