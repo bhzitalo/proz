@@ -1,11 +1,4 @@
 # TRABALHO
-Tema: Software Open Source e Proprietário </br>
-Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
-Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
-Turma: 251AM </br>
-Grupo: [Ítalo](https://github.com/finizmd), Cintia, Stefany, [Kauan](https://github.com/3kauan), Mateus.
-
-# Introdução
 Elabore um comparativo entre sistemas operacionais de código aberto (Open Source) e sistemas operacionais proprietários. Para isso, siga os tópicos abaixo:
 - Defina o que são sistemas operacionais Open Source e sistemas operacionais proprietários, destacando as principais diferenças entre eles.
 
@@ -15,7 +8,12 @@ Elabore um comparativo entre sistemas operacionais de código aberto (Open Sourc
 
 - Cite as principais características dos sistemas operacionais MacOS, iOS e das cinco principais distribuições Linux.
 
-## Software Open Source
+Turma: 251AM </br>
+Escola: [Proz Educação](http://prozeducacao.com.br/) </br>
+Professor: [Wanderley Lopes Batista](https://capacidadevirtual.blogspot.com/p/curriculo-prof-wanderley_20.html) </br>
+Grupo: [Ítalo](https://github.com/finizmd), [Cintia](https://github.com/cintia2305), [Stefany](https://github.com/tet80), [Kauan](https://github.com/3kauan), [Mateus](https://github.com/Mateushpr). </br>
+
+# Software Open Source
 
   Software Open Source é aquele cujo o código-fonte é disponibilizado publicamente para qualquer pessoa. Isso significa que qualquer desenvolvedor pode visualizar, modificar, melhorar e distribuir o código conforme desejar, desde que siga as licenças especificadas pelo criador. 
 
@@ -36,7 +34,7 @@ Elabore um comparativo entre sistemas operacionais de código aberto (Open Sourc
 - **Suporte limitado**: Como é um modelo colaborativo, o suporte técnico pode ser escasso, ou depender da comunidade.
 - **Compatibilidade**: Às vezes, pode haver problemas de compatibilidade com outros software ou hardware.
 
-## Software Proprietário
+# Software Proprietário
 Software proprietário é aquele cujo código-fonte é fechado e controlado por uma empresa ou desenvolvedor. Somente a empresa ou o proprietário do software tem permissão para visualizar, modificar ou distribuir o código.
 
 **Vantagens:**
@@ -57,7 +55,7 @@ Software proprietário é aquele cujo código-fonte é fechado e controlado por 
 
 A escolha entre software open source e proprietário depende muito das necessidades do usuário da empresa. Se a transparencia, personalização e custo são prioridades, o Open Source pode ser a melhor escolha. Por outro lado, se você busca uma solução que ofereça suporte técnico e uma experiência de usuário refinada, o software proprietário pode ser mais adequado.
 
-## O Windows e Suas Principais Versões
+# O Windows e Suas Principais Versões
 O Windows é um sistema operacional desenvolvido pela Microsoft, responsável por gerenciar os recursos de hardware e software de um computador. Com uma interface gráfica intuitiva, ele permite que os usuários interajam com o computador por meio de janelas, ícones e menus. Lançado inicialmente em 1985, o Windows se tornou um dos sistemas operacionais mais utilizados no mundo, presente em computadores pessoais, notebooks e até em alguns dispositivos corporativos. Ao longo dos anos, passou por diversas versões, trazendo melhorias em segurança, desempenho e usabilidade.
 ### Windows 1.0 (1985)
 ---
@@ -129,8 +127,7 @@ Unificou a experiência entre dispositivos. Recebeu atualizações frequentes e 
 <p align="center">
   <img title="windows1.0" src="https://windowsphonebrasil.com.br/wp-content/uploads/2023/06/msw-win10-hero-slider-familiar.png" width="400" height="300">
 
-### Windows 11 (2021)
----
+## Windows 11 (2021)
 Interface mais moderna, foco em produtividade, novos requisitos de hardware e melhorias de desempenho.
 <p align="center">
   <img title="windows1.0" src="https://blog.bbbaterias.com.br/wp-content/uploads/2024/06/WIN_CML_Start_Dark_16x9_en-US.png?utm_source=blog&utm_campaign=link-conteudo-post&utm_content=bnot" width="400" height="300">
@@ -157,7 +154,7 @@ Interface mais moderna, foco em produtividade, novos requisitos de hardware e me
 
 Resumindo: macOS é pra computadores e iOS é pra dispositivos móveis, cada um com seu foco e interface específica.
 
-## Linux e Suas Distribuições
+# Linux e Suas Distribuições
 O Linux é um sistema operacional de código aberto baseado no núcleo (kernel) criado por Linus Torvalds em 1991. Ele é amplamente usado em servidores, desktops, dispositivos móveis (como o Android) e sistemas embarcados (como roteadores e smart TVs).Diferente de sistemas proprietários como Windows e macOS, o Linux é livre para uso, modificação e distribuição, o que permitiu o surgimento de várias distribuições (ou "distros"), adaptadas para diferentes tipos de usuários e finalidades.
 
 **Principais Distribuições Linux:**
